@@ -1,0 +1,13 @@
+{
+  "name": "windy-plugin-sounding",
+  "version": "1.0.0",
+  "title": "Sounding Analysis",
+  "icon": "☁️",
+  "description": "Atmospheric sounding analysis with severe weather parameters",
+  "author": "Your Name",
+  "repository": "https://github.com/yourusername/windy-sounding-plugin",
+  "desktopUI": "rhpane",
+  "mobileUI": "fullscreen",
+  "desktopWidth": 400,
+  "routerPath": "/sounding"
+}
